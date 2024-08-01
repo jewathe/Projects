@@ -1,2 +1,4 @@
-# Projects
-A collection of my work
+# Projets
+Une collection de mes travaux
+
+## 
